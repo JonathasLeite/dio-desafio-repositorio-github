@@ -6,3 +6,4 @@ git bash - na pasta onder será clonado
 git clone
 git add .
 git commit -m origin
+git push origin main
