@@ -1,0 +1,6 @@
+Link para Download do git
+o gitbash é um terminal extentido para otimizar o uso do git
+
+comandos
+git bash - na pasta onder será clonado
+git clone
