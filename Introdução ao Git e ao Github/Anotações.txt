@@ -4,3 +4,5 @@ o gitbash é um terminal extentido para otimizar o uso do git
 comandos
 git bash - na pasta onder será clonado
 git clone
+git add .
+git commit -m origin
